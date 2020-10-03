@@ -1,5 +1,3 @@
-#學號: 107213067
-#姓名: 鍾明智
 def square():  # statement make a matrix
     n = int(input())  # input n value to square of matrix
     grid = n ** 2  # grid as limit of the square
